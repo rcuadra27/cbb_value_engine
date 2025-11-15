@@ -1,4 +1,4 @@
-#README.md — College Basketball Value Betting Engine
+README.md — College Basketball Value Betting Engine
 🏀 Overview
 
 This project builds a College Basketball (NCAA Men’s Division I) Value Betting Engine that identifies daily betting lines with the highest expected edge.
