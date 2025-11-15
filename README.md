@@ -1,5 +1,3 @@
-# cbb_value_engine
-
 📘 README.md — College Basketball Value Betting Engine
 🏀 Overview
 
